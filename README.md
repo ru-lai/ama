@@ -1,6 +1,6 @@
 # ru-lai/ama
 
-A repository to ask [Ru-Lai](https://github.com/ru-lai) anything.
+A repository to ask [Ru-Lai](https://github.com/ru-lai) anything. I forked this ama from holden after seeing @mdo use this format.
 
 I have worked at a few startups and large companies in Taiwan and the states. If you have a question you're interested in asking me, write it out here, and I'll do my best to get back as quick as possible.
 
